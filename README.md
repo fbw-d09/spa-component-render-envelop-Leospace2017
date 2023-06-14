@@ -23,20 +23,6 @@ Create an `Envelope` component (`src/Components/Envelope.jsx`) that takes two ob
 > This is what CodeBuddy found when running your code. It is to show you what you have achieved and to give you hints on how to complete the exercise.
 
 
-### Envelope Component
-
-|                 Status                  | Check                                                                                    |
-| :-------------------------------------: | :--------------------------------------------------------------------------------------- |
-| ![Status](../../blob/badges/.github/badges/main/status0.svg) | `Envelope` Component is defined as default export in `src/Components/Envelope.jsx` |
-| ![Status](../../blob/badges/.github/badges/main/status1.svg) | Should render and accept `toPerson` and `fromPerson` props |
-
-### Stamp
-
-|                 Status                  | Check                                                                                    |
-| :-------------------------------------: | :--------------------------------------------------------------------------------------- |
-| ![Status](../../blob/badges/.github/badges/main/status2.svg) | `App` component exists in `src/App.js` |
-| ![Status](../../blob/badges/.github/badges/main/status3.svg) | Component should contain an image |
-
 
 
 [🔬 Results Details](../../actions)

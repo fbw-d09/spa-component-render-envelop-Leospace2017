@@ -1,5 +1,5 @@
 import React from 'react'
-import Stamp from "../../images.stamp.jpg" 
+import Stamp from "../../images/stamp.jpg" 
 
 
 const ImgContainer = () => {

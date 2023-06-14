@@ -1,6 +1,6 @@
 import React from 'react'
 import './Envelope.scss';
-import { FromPerson, ToPerson, ImgContainer } from './components';
+import { FromPerson, ToPerson, ImgContainer } from '.';
 
 const adressLabel = [
     {
